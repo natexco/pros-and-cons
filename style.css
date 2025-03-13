@@ -3,6 +3,8 @@ h1{
   background-color: slategrey;
   font-size: 20px;
   text-decoration: underline;
+  font-family: arial;
+  text-align: center;
 }
 p{
   color: slategrey;
