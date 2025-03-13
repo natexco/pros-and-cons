@@ -2,7 +2,7 @@ h1{
   color: orange;
   background-color: slategrey;
   font-size: 20px;
-  text-decoration: line-through
+  text-decoration: underline;
 }
 p{
   color: slategrey;
