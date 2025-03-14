@@ -8,4 +8,14 @@ h1{
 }
 p{
   color: slategrey;
+  text-align: right;
+  line-height: 30px;
+  letter-spacing: 3px;
+  column-count: 3;
+  column-gap: 60px;
+}
+ul{
+  border-width: 4px;
+  border-style: solid;
+  border-color: crimson;
 }
