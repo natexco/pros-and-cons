@@ -26,3 +26,6 @@ li{
   list-style-type: none;
   text-shadow: 2px 2px lightgrey;
 }
+body {
+  background-image: url("blackbackground.jpeg");
+}
