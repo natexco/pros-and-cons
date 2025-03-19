@@ -29,18 +29,18 @@ li{
 body {
   background-image: url("blackbackground.jpeg");
 }
-p.a {
-  font-family: "Times New Roman", Times, serif;
+.a {
+  font-family: serif;
 }
-p.a {
-  font-family: "Times New Roman", Times, serif;
+.b {
+  font-family: sans-serif;
 }
-p.a {
-  font-family: "Times New Roman", Times, serif;
+.c {
+  font-family: cursive;
 }
-p.a {
-  font-family: "Times New Roman", Times, serif;
+.d {
+font-family: monospace;
 }
-p.a {
-  font-family: "Fantasy", Times, serif;
+.e {
+ font-family: fantasy;
 }
